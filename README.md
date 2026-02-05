@@ -1,2 +1,2 @@
 # SQL-hr-analytics-project
-HR analytics project using SQL (SSMS)
+HR analytics project using SQL 
