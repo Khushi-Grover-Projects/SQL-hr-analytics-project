@@ -27,4 +27,3 @@ Designed to calculate KPIs and analytics for HR decisions.
 1. Run 01_data.sql to create database and insert data
 2. Run 02_showdata.sql to verify inserted data
 3. Run 03_queries.sql to execute analysis queries
-4. Check 04_output.sql for sample results
